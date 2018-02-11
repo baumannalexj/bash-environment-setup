@@ -1,0 +1,6 @@
+minikube
+mysqlworkbench
+postman
+slack
+spotify
+wireshark
