@@ -17,7 +17,9 @@ do
 
 	    eval "$commandToExecute $brewFormulaName"
 	    echo "finished $brewFormulaName"
-   	} & 
+   	}
+	# & 
+	# disabling parallelization for now 
    	# end with '&' to run block in background (parallelizes)
 
 done < "$filename"

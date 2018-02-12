@@ -1,3 +1,9 @@
+atom
+bettertouchtool
+intellij-idea
+iterm2
+java
+java8
 minikube
 mysqlworkbench
 postman

@@ -15,7 +15,9 @@ groovy
 icu4c
 isl
 ivy
+jenv
 jpeg
+kubernetes-cli
 libffi
 libgcrypt
 libgpg-error
@@ -30,7 +32,7 @@ maven
 mpfr
 nettle
 node
-nvm
+openssl
 openssl@1.1
 p11-kit
 pcre
@@ -38,4 +40,4 @@ terraform
 tree
 vault
 wget
-wireshark
+zsh
